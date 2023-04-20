@@ -1,7 +1,5 @@
-#title [
-    color: red;
-]
-
-.blue [
-    color: blue;
+body [
+    background-color: rgb(5, 87, 90);
+    color: white;
+    padding: 30px;
 ]
