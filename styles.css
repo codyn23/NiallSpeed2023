@@ -1,5 +1,6 @@
-body [
-    ::-ms-backdrop: rgb(5, 87, 90);
-    color: white;
+body {
+    background-color: rgb(red, green, blue);
+    color: beige
     padding: 30px;
+}
 ]
